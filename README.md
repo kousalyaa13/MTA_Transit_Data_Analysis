@@ -1,4 +1,4 @@
-# 🚆 SQL Transit Data Equity Analysis
+# MTA Transit Data Equity Analysis
 
 This project explores public transit accessibility and infrastructure equity across Maryland using the MTA Transit-Oriented Development (TOD) dataset. The goal is to understand how transit access varies by zone and identify disparities through SQL queries and data modeling.
 
