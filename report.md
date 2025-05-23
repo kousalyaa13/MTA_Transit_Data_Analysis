@@ -7,7 +7,7 @@ This report explores transit accessibility and infrastructure equity across Mary
 The aim is to analyze how TOD affects accessibility across urban, suburban, and rural areas. By using relational modeling and SQL queries, the project identifies disparities and suggests areas for improvement in transit planning.
 
 ## Database Design
-Below is the logical design used for our transit database:
+Below is the logical design used for the transit database:
 
 ![ERD Diagram](mta_transit_erd.png)
 
